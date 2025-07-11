@@ -52,3 +52,9 @@ This project is a lightweight **Streamlit-based web application** that detects w
    ```bash
    git clone https://github.com/your-username/sqlxss-detector.git
    cd sqlxss-detector
+
+2. **Install the dependencies**
+pip install streamlit pandas scikit-learn
+
+3. **Run the app**
+streamlit run streamlit_sql_xss_app.py
